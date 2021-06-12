@@ -1,0 +1,4 @@
+body { background-color: white; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
+.scrolledDown { background: #bebe38 }
+div { position: fixed; top: 0; left: 0; background: white; border: solid 1px black; padding: 5px }
+  
